@@ -1,29 +1,29 @@
-Just a simple btc wallet generator~
+<h1>Just a simple btc wallet generator~</h1>
 
-First of all, all you need to do is install nodeJS in your system:
+**First of all, all you need to do is install nodeJS in your system:**
 https://nodejs.org/en/download/
 
-After that, you must go into your vscode (or whatever source code editor that you would like to use), and then open your terminal. 
+**After that, you must go into your vscode (or whatever source code editor that you would like to use), and then open your terminal.**
 
--CHECK IF YOUR NODEJS IS INSTALLED
+<h2>Instructions:</h2>
 
-node -v 
+CHECK IF YOUR NODEJS IS INSTALLED
 
--ALSO, USE THAT FOR NPM AS WELL!
+* node -v 
 
-npm -v 
+ALSO, USE THAT FOR NPM AS WELL!
 
--SETTING UP:
+* npm -v 
 
-Now, type in your terminal: npm init 
+NOW, TYPE IN YOUR TERMINAL:
 
--AFTER THAT: 
+* npm init 
 
-npm install bip39  bip32@2.0.6  bitcoinjs-lib
+AFTER THAT: 
 
-Now, just create a folder called "src", and then put your .js file in there. 
+* npm install bip39  bip32@2.0.6  bitcoinjs-lib
 
-You're good to go now.
+NOW, JUST CREATE A FOLDER CALLED "src" AND PUT YOUR .JS FILE IN THERE! 
 
-Check my createWallet.js to further instructions. 
+* Check my createWallet.js to further instructions. 
 
