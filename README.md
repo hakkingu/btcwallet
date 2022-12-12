@@ -22,4 +22,3 @@ Now, just create a folder called "src", and then put your .js file in there.
 You're good to go now.
 Check my createWallet.js to further instructions. 
 
-![image](https://user-images.githubusercontent.com/118148112/207167013-9cd6a1e0-35cf-4559-aa71-ffb272c93f5d.png)
