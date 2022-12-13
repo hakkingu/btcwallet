@@ -25,5 +25,5 @@ AFTER THAT:
 
 NOW, JUST CREATE A FOLDER CALLED "src" AND PUT YOUR .JS FILE IN THERE! 
 
-* Check my createWallet.js to further instructions. 
+* Check my createWallet.js for further instructions. 
 
